@@ -11,9 +11,11 @@ Primeramente tenemos en cuenta que la página tiene que poder ser accesible a tr
 ![loginGestBanana](https://user-images.githubusercontent.com/119038523/234012567-8f0116f2-c363-4b36-966a-d816aa971e6f.png)
 ![login2GestBanana](https://user-images.githubusercontent.com/119038523/234012675-04dfbb2d-5ef5-4f8d-9ea9-a02b8973ec77.png)
 
-Cada página de perfil tiene unas características diferentes que ayudan a la gestión del trabajo dependiendo de tu posición, por ejemplo en la página del perfil de coder puedes editar el contenido para poner los lenguajes de programación que puedes utilizar, los proyectos donde participas y las solicitudes que puedes hacer al personal de recursos humanos para, por ejemplo, solicitar las vacaciones. En el menú de navegación podemos el botón que te permite editar el perfil, solicitar ayuda y cerrar sesión.
+Cada página de perfil tiene unas características diferentes que ayudan a la gestión del trabajo dependiendo de tu posición, por ejemplo en la página del perfil de coder puedes editar el contenido para poner los lenguajes de programación que puedes utilizar, los proyectos donde participas y las solicitudes que puedes hacer al personal de recursos humanos para, por ejemplo, solicitar las vacaciones. En el menú de navegación podemos el botón que te permite editar el perfil, solicitar ayuda y cerrar sesión.![editarInfo](https://user-images.githubusercontent.com/119038523/234025799-eed3d07b-ec80-4208-b909-5e1890b6fcf5.png)
+![enviarMensaje](https://user-images.githubusercontent.com/119038523/234025834-1e3a4eb6-34fa-4b37-b6e8-7f900ddb4ed4.png)
 
-En la página de perfil de recursos humanos encontramos los proyectos activos dónde podemos ver los coders participantes y el estado del mismo, quién es el lider del proyecto y el cliente solicitante. Tenemos también un apartado dedicado a los coders/desarrolladores para ver de manera más concreta en qué proyecto están participando y su rol dentro de él.![perfilRRHH](https://user-images.githubusercontent.com/119038523/234013076-7dec5669-7ad8-4433-8114-8570a381d03d.png)
+
+En la página de perfil de recursos humanos encontramos los proyectos activos dónde podemos ver los coders participantes y el estado del mismo, quién es el lider del proyecto y el cliente solicitante. Tenemos también un apartado dedicado a los coders/desarrolladores para ver de manera más concreta en qué proyecto están participando y su rol dentro de él.!
 
 
 --------------------------------
